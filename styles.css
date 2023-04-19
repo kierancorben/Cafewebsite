@@ -1,0 +1,108 @@
+
+body{
+    background-color: rgba(87, 52, 1, 0.774);
+    background-image: url(images/wood-1866667.jpg); 
+    
+    background-position: center;
+    
+
+}
+
+
+header {
+    background-color:rgba(104, 53, 5, 0.815);
+    height: 100px;
+    width: 100%;
+    font-size: 50px;
+    margin-top: -30px;
+    margin-left: -10px;
+    margin-right: -10px;
+
+} 
+
+
+.boxl{
+    text-align: left;
+    width: 60%;
+    height: 900px;
+    font-size: 25px;
+    float:left;
+    padding-right: 5%;
+   padding-left: 5%;
+   outline-style: solid;
+   margin-left: -5%;
+    
+    
+    
+    
+}
+
+
+
+
+.boxr{
+    text-align: left;
+    width: 35%;
+    height: 900px;
+    float:left;
+    outline-style: solid;
+    margin-right: -5%;
+
+
+    
+
+    
+}
+
+footer{
+    
+    width:100%;
+    height:20%;
+    margin-bottom: -5%;
+
+}
+
+
+nav{
+    
+    height: 200px;
+    width: 75%;
+    font-size: 30px;
+   margin-right: -5%;
+
+    
+    
+
+}
+
+
+
+ul{
+    list-style-type: none ;
+}
+
+
+li{
+    float: left;
+
+}
+
+
+li a{
+ display: block;
+ color: rgba(255, 255, 255, 0.945);
+ font-size: 50px;
+ text-align: center;
+ text-decoration: none;
+ padding-top: 10px;
+ padding-left: 50px;
+
+}
+
+
+
+
+
+
+
+ 
